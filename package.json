@@ -13,10 +13,10 @@
   "author": "jane-doe",
   "license": "MIT",
   "dependencies": {
-"node-fetch": "^3.2.6"
-"axios": "^0.27.2",
-"cheerio": "^1.0.0-rc.12",
-"cors": "^2.8.5",
+    "node-fetch": "^3.2.6"
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
     "express": "^4.9.8"
     
   },
